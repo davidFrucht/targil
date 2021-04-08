@@ -26,7 +26,7 @@ public class Main {
                 inputNumber = s.nextInt();
 
                 if (inputNumber < randomNumber)
-                    System.out.println("The number is higher");
+                    System.out.println("The ndfsumdber is higher");
                 else if (inputNumber > randomNumber)
                     System.out.println("The number is lower");
                 else {
